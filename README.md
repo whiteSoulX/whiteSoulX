@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning penetaration testing , CEH . 
 - 💞️ I’m looking to collaborate on someone who knows about Loit . 
 - 📫 How to reach me , If you wanna reach then find me .
-- 😄 Profile Info : [...](https://whitesoulx.github.io/Portfolio/)
+- 😄 Profile Info : [Click](https://whitesoulx.github.io/Portfolio/)
 - ⚡ Fun fact: just like a whitespace
 
 <!---
